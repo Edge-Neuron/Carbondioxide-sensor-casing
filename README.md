@@ -65,11 +65,13 @@ Connection pinout and voltage levels
 
 🔗 Community & Resources
 👉 Want to 3D print your own enclosure?
-Check out our free 3D models and printable files on:
+Check out our 3D models and printable files on:
 
 🌐 Printables 
 
-🎨 Cults3D 
+🎨 Cults3D https://cults3d.com/:3044133
+
+📺 Check out the full build tutorial on our YouTube Channel:  https://youtu.be/nTmAs9i0Ijo
 
 📹 We also share detailed tutorial videos and live building sessions on our YouTube channel:
 ➡️ YouTube: The Innovation Foundry 
